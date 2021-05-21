@@ -1,0 +1,4 @@
+/.ipynb_checkpoints/
+app.ipynb
+logReg_churn_model.pkl
+prepro_churn_model.pkl
